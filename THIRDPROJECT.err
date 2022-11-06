@@ -1,0 +1,3 @@
+warning# 1.088    line   25    file xor.v
+endmodule
+^ 'cmos_xor' is already defined.
