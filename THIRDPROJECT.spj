@@ -1,5 +1,7 @@
 [Settings]
 Version=2002.1
 [Files]
-0="xor (1).v"
+0="tb_xor.v"
 1="xor.v"
+[WindowPos]
+xor=0,1,0,-1,0,-1,136,326,1211,676
